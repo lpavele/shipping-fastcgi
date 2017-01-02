@@ -1,9 +1,8 @@
 # Undertow vs Grizzly
 
 ## Запросы
-GET /hello
-
-GET /couriers/{courierId}/orders
+- GET /hello
+- GET /couriers/{courierId}/orders
 
 ## Сборка
 mvn clean package
